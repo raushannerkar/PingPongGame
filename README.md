@@ -1,2 +1,2 @@
 # Ping-Pong_Game using CPP
-A basic ping pong game using C++
+A ping pong game using C++
